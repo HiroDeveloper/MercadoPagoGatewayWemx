@@ -1,6 +1,6 @@
 # MercadoPago Gateway para Wemx
 
-![MercadoPago](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mercado_Pago_Logo.svg/2560px-Mercado_Pago_Logo.svg.png)
+![MercadoPago](https://i.imgur.com/ov2BGzh.png)
 
 **MercadoPagoGatewayWemx** es un módulo de pago diseñado para integrar **MercadoPago Argentina** con **Wemx**, permitiendo realizar cobros de manera sencilla y segura.
 
