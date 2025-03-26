@@ -1,0 +1,13 @@
+{
+    "name": "MercadoPago",
+    "alias": "mercadopago",
+    "description": "MercadoPago Gateway",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MercadoPago\\Providers\\GatewayPackServiceProvider"
+    ],
+    "files": [],
+    "type": "gateway",
+    "class": "Modules\\MercadoPago\\Entities\\MercadoPago"
+}
